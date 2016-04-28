@@ -2,10 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "net.sirac.xhlup"
-        version   = "50.7.4">
-        android-versionCode="80"
-		
-	
+	versionCode = "99"
+        version   = "50.7.5">
 		
     <name>XHLUP 89.1 FM</name>
 
@@ -16,8 +14,6 @@
     <author href="http://www.radiolupita.mx" email="sirac@hotmail.com">
         Heriberto Arturo Figueroa Medina-sirac@hotmail.com
     </author>
-    
-
 
     <preference name="phonegap-version" value="3.7.0" />
     <preference name="orientation"      value="portrait" />
