@@ -2,11 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "net.sirac.xhlup"
-        versionCode = "89"
-        version   = "50.7.3">
-
-
-
+        version   = "50.7.4">
+        android-versionCode="80"
 		
 	
 		
