@@ -2,8 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "net.sirac.xhlup"
-	versionCode = "99"
-        version   = "50.7.5">
+	versionCode = "100"
+        version   = "51.8.6">
 		
     <name>XHLUP 89.1 FM</name>
 
