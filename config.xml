@@ -15,7 +15,8 @@
         Heriberto Arturo Figueroa Medina-sirac@hotmail.com
     </author>
 
-    <preference name="phonegap-version" value="3.7.0" />
+    
+	<preference name="phonegap-version" value="cli-6.4.0" />
     <preference name="orientation"      value="portrait" />
 	<preference name="AlwaysRetainTaskState"      value="true" />
 	<preference name="AndroidLaunchMode" value="singleTask" />
